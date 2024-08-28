@@ -1,4 +1,4 @@
 
 //Add backGround-color = Blue
 
-//Add backgroundColor - red  
+//Add fontcolor - red  
